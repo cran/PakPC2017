@@ -1,3 +1,12 @@
+# Changes in PakPC2017 Version 0.5.0
+## New Features 
+
+* Added Qanungo Halqas data
+* Added Patwar Circle data
+* Added Village data
+* Added Block data
+
+
 # Changes in PakPC2017 Version 0.4.0
 ## New Features 
 
